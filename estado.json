@@ -1,0 +1,46 @@
+{
+    "movimientos": {
+        "22222222": [
+            [
+                "29/11/23 21:49:56",
+                "Extracci\u00f3n"
+            ],
+            [
+                "29/11/23 21:49:57",
+                "Extracci\u00f3n"
+            ],
+            [
+                "30/11/23 21:49:56",
+                "Extracci\u00f3n"
+            ]
+        ],
+        "33333333": [
+            [
+                "30/11/23 21:49:57",
+                "Extracci\u00f3n"
+            ]
+        ],
+        "admin": []
+    },
+    "saldo": 0,
+    "usuarios": {
+        "22222222": {
+            "clave": "Prueba123",
+            "movimientos": {},
+            "saldo": 1,
+            "sueldo": 1
+        },
+        "33333333": {
+            "clave": "Prueba321",
+            "movimientos": {},
+            "saldo": 1,
+            "sueldo": 1
+        },
+        "admin": {
+            "clave": "admin",
+            "movimientos": {},
+            "saldo": 0,
+            "sueldo": 0
+        }
+    }
+}
